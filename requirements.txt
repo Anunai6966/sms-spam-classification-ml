@@ -1,4 +1,5 @@
 pandas
 scikit-learn
 nltk
-streamlit
+streamlit>=1.28.0
+altair>=5.0.0

@@ -17,3 +17,6 @@ if st.button("Check Message"):
             st.error(f"🚨 SPAM — {confidence}% confident")
         else:
             st.success(f"✅ HAM (Not Spam) — {confidence}% confident")
+
+
+# python -m streamlit run app.py
